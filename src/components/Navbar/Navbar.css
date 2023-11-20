@@ -8,6 +8,11 @@
     padding: 1rem 2rem;
 }
 
+.logo-style {
+    font-size: 35px;
+    color: #dcca87;
+}
+
 .app__navbar-logo {
     display: flex;
     justify-content: flex-start;
